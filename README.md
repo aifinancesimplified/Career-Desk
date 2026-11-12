@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34757520/README.md)
 # Finance Simplified Career Desk
 
 Static website. No server or database. Open `index.html` to view it; host it free on GitHub Pages.
