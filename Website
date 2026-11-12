@@ -1,0 +1,807 @@
+
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Page not found</title></head><body style="font-family:system-ui,sans-serif;display:grid;place-items:center;min-height:100vh;text-align:center;padding:24px;margin:0"><div><h1>Page not found</h1><p>The page you wanted is not here. <a href="./">Go to the home page</a>.</p></div></body></html>
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Finance Simplified Career Desk</title>
+<meta name="description" content="ICAI Commerce Olympiad summary and CA Launchpad: career guidance for students and parents after Class 10 and 12.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700;800&family=Figtree:wght@400;500;600;700&family=Hind:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M2 5.5C2 4.7 2.7 4 3.5 4H10c1.1 0 2 .9 2 2v13c0-1.1-.9-2-2-2H3.5c-.8 0-1.5-.7-1.5-1.5v-10z"/><path d="M22 5.5c0-.8-.7-1.5-1.5-1.5H14c-1.1 0-2 .9-2 2v13c0-1.1.9-2 2-2h6.5c.8 0 1.5-.7 1.5-1.5v-10z"/></symbol>
+  <symbol id="i-layers" viewBox="0 0 24 24"><path d="M12 3l9 5-9 5-9-5 9-5z"/><path d="M3 13l9 5 9-5"/></symbol>
+  <symbol id="i-briefcase" viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 012-2h2a2 2 0 012 2v2"/><path d="M3 13h18"/></symbol>
+  <symbol id="i-flag" viewBox="0 0 24 24"><path d="M5 21V4"/><path d="M5 4h11l-2 4 2 4H5"/></symbol>
+  <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 5-3 8-7 10-4-2-7-5-7-10V6l7-3z"/><path d="M9 12l2 2 4-4"/></symbol>
+  <symbol id="i-building" viewBox="0 0 24 24"><rect x="5" y="3" width="14" height="18" rx="1"/><path d="M9 7h2M13 7h2M9 11h2M13 11h2M9 15h2M13 15h2"/></symbol>
+  <symbol id="i-receipt" viewBox="0 0 24 24"><path d="M6 3h12v18l-3-2-3 2-3-2-3 2V3z"/><path d="M9 8h6M9 12h6"/></symbol>
+  <symbol id="i-landmark" viewBox="0 0 24 24"><path d="M3 10l9-6 9 6"/><path d="M5 10v8M9.5 10v8M14.5 10v8M19 10v8"/><path d="M3 20h18"/></symbol>
+  <symbol id="i-bulb" viewBox="0 0 24 24"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 00-4 10.5c.7.7 1 1.5 1 2.5h6c0-1 .3-1.8 1-2.5A6 6 0 0012 3z"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+  <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.2"/><path d="M3 20c0-3.3 2.7-6 6-6s6 2.7 6 6"/><circle cx="17" cy="9" r="2.4"/><path d="M17 14c2.3 0 4 1.8 4 4.2"/></symbol>
+  <symbol id="i-trophy" viewBox="0 0 24 24"><path d="M8 4h8v5a4 4 0 01-8 0V4z"/><path d="M8 6H4v1a3 3 0 003 3M16 6h4v1a3 3 0 01-3 3"/><path d="M12 13v4M8.5 20h7M10 17h4"/></symbol>
+  <symbol id="i-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5 5-2z"/></symbol>
+</svg>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#top"><span class="mark" aria-hidden="true">FS</span><span class="bn">Finance Simplified Career Desk<small>CA Launchpad</small></span></a>
+    <nav class="links" aria-label="Sections">
+      <a class="hide-m" href="#olympiad">Olympiad</a>
+      <a class="hide-m" href="#check">Your route</a>
+      <a class="hide-m" href="#planner">Planner</a>
+      <a class="hide-m" href="#fit">Fit quiz</a>
+      <a class="hide-m" href="#journey">The course</a>
+      <a class="hide-m" href="#questions">Questions</a>
+      <a class="btn sm" href="#enquire">Ask us</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+<section class="hero">
+  <div class="wrap">
+    <div>
+      <div class="pill" id="notice" role="status"><span>ICAI Commerce Olympiad is on <b>29 Nov 2026</b>. Class VIII to graduation, online.</span></div>
+      <h1>ICAI Commerce Olympiad <em>29 November</em></h1>
+      <p class="lede">An online test by ICAI for students from Class VIII to graduation, with prize money for rank holders. Registration on ICAI's site has no fee. Then find out which way into CA fits you.</p>
+      <div class="row">
+        <a class="btn accent" href="#olympiad">ICAI Commerce Olympiad, 29 Nov</a>
+        <a class="btn light" href="#check">Check my CA route</a>
+      </div>
+      <ul class="trust">
+        <li><svg class="ic"><use href="#i-check"/></svg>Practising Chartered Accountant</li>
+        <li><svg class="ic"><use href="#i-check"/></svg>Empanelled career counsellor, ICAI Committee on Career Counselling</li>
+        <li><svg class="ic"><use href="#i-check"/></svg>Rules checked against ICAI's FAQ, source shown on every fact</li>
+      </ul>
+    </div>
+    <aside class="route-card" aria-label="The CA route at a glance">
+      <p class="rc-title">The CA route at a glance</p>
+      <ol class="rc">
+        <li><span class="rc-ic"><svg class="ic"><use href="#i-book"/></svg></span><div><strong>Foundation</strong><span class="d">Register after Class 10</span></div></li>
+        <li><span class="rc-ic"><svg class="ic"><use href="#i-layers"/></svg></span><div><strong>Intermediate</strong><span class="d">After Foundation, or directly for graduates</span></div></li>
+        <li><span class="rc-ic"><svg class="ic"><use href="#i-briefcase"/></svg></span><div><strong>Practical training</strong><span class="d">Two years with a practising CA</span></div></li>
+        <li><span class="rc-ic"><svg class="ic"><use href="#i-flag"/></svg></span><div><strong>Final</strong><span class="d">Held in May and November</span></div></li>
+      </ol>
+      <p class="rc-end">Then you apply for ICAI membership and become a Chartered Accountant.</p>
+    </aside>
+  </div>
+</section>
+
+<section class="sec wrap" id="olympiad" style="padding-top:64px">
+  <div class="sec-head">
+    <span class="kicker">ICAI Commerce Olympiad</span>
+    <h2 class="t">The ICAI Commerce Olympiad, at a glance</h2>
+    <p class="lead">An online test run by ICAI's Committee on Career Counselling for students from Class VIII to graduation. The details below summarise ICAI's scheme. ICAI's newest brochure is one tap away.</p>
+  </div>
+  <div class="broch">
+    <div class="bhead">
+      <span class="k">Organised by ICAI</span>
+      <h3>ICAI Commerce Olympiad 2026</h3>
+      <p>Class VIII to graduation. Online. Prize money for rank holders.</p>
+      <ul class="bdate">
+        <li>Test date <b>29 Nov 2026</b></li>
+        <li>Mode <b>Online</b></li>
+        <li>Registration <b>No fee, per ICAI</b></li>
+      </ul>
+      <div class="row" style="margin-top:20px">
+        <a class="btn accent" href="https://icaicommerceolympiad.in/" target="_blank" rel="noopener">Register on ICAI's site</a>
+        <a class="btn light" href="https://ccg.icai.org/images/ICAI-commerce-olympiad-04-11-2026-v2.jpeg" target="_blank" rel="noopener">Latest ICAI brochure, 4 Nov 2026</a>
+        <a class="btn light" href="https://icaicommerceolympiad.in/PDF/ICAI_Commerce_Olympiad.pdf" target="_blank" rel="noopener">Full scheme (PDF)</a>
+      </div>
+    </div>
+    <div class="card">
+      <h3 class="sub" style="margin:0 0 12px;font-size:1.25rem">Six levels, one for each class</h3>
+      <ul class="lv"><li>Level 1: Class VIII</li><li>Level 2: Class IX</li><li>Level 3: Class X</li><li>Level 4: Class XI</li><li>Level 5: Class XII</li><li>Level 6: Graduation</li></ul>
+      <div class="bcols">
+        <div><h4>Subjects</h4><p><b>Classes VIII to X:</b> Social Studies, Mathematics, Business Awareness, Aptitude.</p><p><b>Class XI, XII and graduation:</b> Business Studies, Accountancy, Economics, Aptitude.</p></div>
+        <div><h4>Test format</h4><p>60 minutes, 100 multiple-choice questions, 25 per subject.</p><p>1 mark each, no negative marking. Works on a laptop, desktop, mobile or iPad.</p></div>
+      </div>
+      <h3 class="mini">Prizes at every level</h3>
+      <div class="tablewrap"><table>
+        <thead><tr><th>Rank</th><th>Prize</th></tr></thead>
+        <tbody>
+          <tr><td>Top 3</td><td class="num">₹10,000 and a Merit Certificate</td></tr>
+          <tr><td>Next 25</td><td class="num">₹2,000 and an appreciation certificate</td></tr>
+          <tr><td>Next 50</td><td class="num">₹1,500 and an appreciation certificate</td></tr>
+          <tr><td>Next 50</td><td class="num">₹1,000 and an appreciation certificate</td></tr>
+          <tr><td>Everyone else</td><td>Participation certificate</td></tr>
+        </tbody></table></div>
+      <p class="tnote">The top three in Classes X to graduation can have their CA Foundation or Direct Entry course fee reimbursed if they register for the CA course in the same year. Results appear only on the official website.</p>
+      <p class="src" style="margin-top:14px !important">Sources: <a class="sr" href="https://ccg.icai.org/images/ICAI-commerce-olympiad-04-11-2026-v2.jpeg" target="_blank" rel="noopener">Latest ICAI brochure, 4 Nov 2026</a><a class="sr" href="https://icaicommerceolympiad.in/PDF/ICAI_Commerce_Olympiad.pdf" target="_blank" rel="noopener">ICAI scheme (PDF)</a><a class="sr" href="https://ccg.icai.org/" target="_blank" rel="noopener">ccg.icai.org, 29 Nov 2026 date</a><a class="sr" href="https://icai.org/post/19449" target="_blank" rel="noopener">ICAI registration notice</a></p>
+    </div>
+  </div>
+  <p class="bnote"><b>Check before you register.</b> Use only <b>icaicommerceolympiad.in</b>, the address ICAI's own pages link to. The levels, subjects, format and prizes above come from ICAI's published scheme. ICAI's newest brochure (4 Nov 2026) is linked above and is the final word on the last date to register and any change in prizes, so read it before you rely on this summary. ICAI contact: toll-free 1800 202 8371, email ccc.events@icai.in.</p>
+</section>
+
+<section class="sec wrap" id="check">
+  <div class="sec-head">
+    <span class="kicker">CA Launchpad</span>
+    <h2 class="t">Which way into CA fits you?</h2>
+    <p class="lead">Pick where you are today. You get your entry route, the registration dates still open to you, and what comes next.</p>
+  </div>
+  <div class="tool">
+    <form class="card" id="form" aria-label="Where are you now">
+      <fieldset class="choices">
+        <legend>Where are you now?</legend>
+        <div class="pick"><input type="radio" name="stage" id="s-c10" value="c10"><label for="s-c10">In Class 10 or below</label></div>
+        <div class="pick"><input type="radio" name="stage" id="s-c11" value="c11"><label for="s-c11">In Class 11<small>Class 10 passed</small></label></div>
+        <div class="pick"><input type="radio" name="stage" id="s-c12a" value="c12a"><label for="s-c12a">In Class 12 this year</label></div>
+        <div class="pick"><input type="radio" name="stage" id="s-c12p" value="c12p" checked><label for="s-c12p">Passed Class 12</label></div>
+        <div class="pick"><input type="radio" name="stage" id="s-found" value="found"><label for="s-found">Passed CA Foundation</label></div>
+        <div class="pick"><input type="radio" name="stage" id="s-ugf" value="ugfinal"><label for="s-ugf">In the final year of a degree</label></div>
+        <div class="pick"><input type="radio" name="stage" id="s-grad" value="grad"><label for="s-grad">Graduate or postgraduate</label></div>
+        <div class="pick"><input type="radio" name="stage" id="s-inter" value="inter"><label for="s-inter">Passed both CA Intermediate groups</label></div>
+      </fieldset>
+      <div class="degree fields" id="degree" hidden>
+        <div class="field">
+          <label for="stream">Your degree</label>
+          <select id="stream">
+            <option value="commerce">Commerce degree</option>
+            <option value="other">Any other degree</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="marks">Marks in the degree (%)</label>
+          <input id="marks" type="number" inputmode="decimal" min="0" max="100" step="0.1" placeholder="e.g. 62">
+        </div>
+        <p class="hint">ICAI decides which degrees count as commerce. Check yours on icai.org.</p>
+      </div>
+    </form>
+    <section class="card result" id="result" aria-live="polite" aria-label="Your route"></section>
+  </div>
+</section>
+
+<section class="sec wrap" id="planner">
+  <div class="sec-head">
+    <span class="kicker">Timeline planner</span>
+    <h2 class="t">See your whole CA timeline</h2>
+    <p class="lead">Choose where you start and the first sitting you will aim for. The planner chains ICAI's lead times, two years of training and the six-month gap before Final.</p>
+  </div>
+  <div class="planner">
+    <form class="card fields" id="plan-form" aria-label="Timeline planner inputs">
+      <div class="field">
+        <label for="plan-start">Starting point</label>
+        <select id="plan-start">
+          <option value="f12a">Foundation, Class 12 this year</option>
+          <option value="f12p" selected>Foundation, Class 12 passed</option>
+          <option value="inter">Intermediate</option>
+          <option value="train">Practical training</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="plan-sitting" id="plan-sit-label">First Foundation sitting</label>
+        <select id="plan-sitting"></select>
+      </div>
+      <label class="check" for="plan-retry"><input type="checkbox" id="plan-retry"><span>Allow one extra attempt at each exam</span></label>
+      <p class="hint">Intermediate covers both a Foundation pass and Direct Entry for graduates. Practical training means both Intermediate groups are cleared.</p>
+    </form>
+    <section class="card" id="plan-out" aria-live="polite" aria-label="Your timeline"></section>
+  </div>
+</section>
+
+<section class="sec wrap" id="fit">
+  <div class="sec-head">
+    <span class="kicker">Fit quiz</span>
+    <h2 class="t">Is CA right for you?</h2>
+    <p class="lead">Eight statements, about two minutes. The result is a conversation starter and says nothing about your ability.</p>
+  </div>
+  <form class="card quiz" id="quiz" aria-label="Is CA right for me">
+    <div id="quiz-list"></div>
+    <div class="qbar">
+      <button class="btn" type="submit" id="quiz-submit" disabled>See my result</button>
+      <span class="qprog" id="quiz-progress">0 of 8 answered</span>
+    </div>
+  </form>
+  <section class="card quiz result" id="quiz-out" aria-live="polite" hidden></section>
+</section>
+
+<section class="sec wrap" id="journey">
+  <div class="sec-head">
+    <span class="kicker">The course</span>
+    <h2 class="t">The CA course in four stages</h2>
+    <p class="lead">The stages run in this order. The lead times below are the ones the checker and planner use to work out your registration dates.</p>
+  </div>
+  <ol class="stages">
+    <li class="stage card">
+      <div class="hd"><span class="ico"><svg class="ic"><use href="#i-book"/></svg></span><div><span class="no"></span><h3>Foundation</h3></div></div>
+      <p class="len">The first exam. Register after Class 10.</p>
+      <dl class="facts">
+        <div><dt>Entry</dt><dd>Register after Class 10. The first attempt comes after you appear in the Class 12 exam.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Lead time</dt><dd>Register at least 4 months before the exam month.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Sittings</dt><dd>January, May and September.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Pass and validity</dt><dd>40% in each paper and 50% overall, in one sitting. Registration lasts 4 years from the first eligible attempt.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+      </dl>
+    </li>
+    <li class="stage card">
+      <div class="hd"><span class="ico"><svg class="ic"><use href="#i-layers"/></svg></span><div><span class="no"></span><h3>Intermediate</h3></div></div>
+      <p class="len">Two groups, each assessed on its own or together.</p>
+      <dl class="facts">
+        <div><dt>Entry</dt><dd>Foundation passed and Class 12 done. Graduates enter directly with 55% in a commerce degree or 60% in any other degree.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Lead time</dt><dd>Register at least 8 months before the exam month.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Sittings</dt><dd>January, May and September.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Pass and validity</dt><dd>40% in each paper and 50% overall. Registration lasts 5 years and can be revalidated once for ₹400.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+      </dl>
+    </li>
+    <li class="stage card">
+      <div class="hd"><span class="ico"><svg class="ic"><use href="#i-briefcase"/></svg></span><div><span class="no"></span><h3>Practical training</h3></div></div>
+      <p class="len">Two years with a practising Chartered Accountant.</p>
+      <dl class="facts">
+        <div><dt>Entry</dt><dd>Both Intermediate groups passed, plus the four-week ICITSS course.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Length</dt><dd>2 years. Nine to twelve months of industrial training can sit inside it.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Before Final</dt><dd>Advanced ICITSS, completed after training and before the Final exam.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+      </dl>
+    </li>
+    <li class="stage card">
+      <div class="hd"><span class="ico"><svg class="ic"><use href="#i-flag"/></svg></span><div><span class="no"></span><h3>Final</h3></div></div>
+      <p class="len">The last exam. Then you apply for ICAI membership.</p>
+      <dl class="facts">
+        <div><dt>Registration</dt><dd>Any time after both Intermediate groups. The self-paced online modules are registered with it.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>To sit the exam</dt><dd>Training finished 6 months before the exam month, Advanced ICITSS done, all four modules qualified.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+        <div><dt>Sittings</dt><dd>May and November.<a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></dd></div>
+        <div><dt>Validity</dt><dd>10 years. Revalidation costs ₹500.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></dd></div>
+      </dl>
+    </li>
+  </ol>
+  <p class="timeline-est">From Class 12, the fastest path works out to about 4.5 years. That is our estimate from ICAI's rules, not an ICAI figure, and every paper that does not clear adds time. Every blue tag on this page opens the ICAI page the fact came from.</p>
+</section>
+
+<section class="sec wrap" id="costs">
+  <div class="sec-head">
+    <span class="kicker">Dates, fees and careers</span>
+    <h2 class="t">Dates and fees, January 2027</h2>
+    <p class="lead">The sitting open for forms right now, with the source for every line.</p>
+  </div>
+  <div class="tablewrap"><table class="facts-t"><thead><tr><th>Item</th><th>Detail</th><th>Source</th></tr></thead><tbody>
+<tr><td>Foundation exam fee, India centres</td><td class="num">₹1,500</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+<tr><td>Intermediate exam fee, one group</td><td class="num">₹1,500</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+<tr><td>Intermediate exam fee, both groups</td><td class="num">₹2,700</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+<tr><td>Exam form opens</td><td class="num">3 Nov 2026</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+<tr><td>Last date for the exam form</td><td class="num">16 Nov 2026</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+<tr><td>Last date with late fee of ₹600</td><td class="num">19 Nov 2026</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+<tr><td>Foundation exams, January 2027</td><td class="num">3, 5, 7 and 9 Jan</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+<tr><td>Intermediate Group I, January 2027</td><td class="num">2, 4 and 6 Jan</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+<tr><td>Intermediate Group II, January 2027</td><td class="num">8, 10 and 12 Jan</td><td><a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></td></tr>
+</tbody></table></div>
+<p class="srnote">Fees are for centres in India. Dates and fees follow the ICAI announcement for the January 2027 exams. Overseas centres pay in US dollars. Course registration fees are separate and listed on icai.org. Always confirm the amount on the ICAI self-service portal before paying.</p>
+
+
+  <h3 class="sub" id="after">Where a CA works</h3>
+  <p class="lead" style="margin:-6px 0 20px">Pay varies by role, city and year, so this page lists no salary figures.</p>
+  <ul class="paths">
+    <li><span class="ico"><svg class="ic"><use href="#i-briefcase"/></svg></span><strong>Own practice</strong><p>Audit, income tax, GST and company law work for clients, alone or as a firm.</p></li>
+    <li><span class="ico"><svg class="ic"><use href="#i-shield"/></svg></span><strong>Audit and assurance</strong><p>Statutory, internal and risk audit in CA firms and large companies.</p></li>
+    <li><span class="ico"><svg class="ic"><use href="#i-building"/></svg></span><strong>Corporate finance</strong><p>Reporting, planning, treasury and finance leadership in industry.</p></li>
+    <li><span class="ico"><svg class="ic"><use href="#i-receipt"/></svg></span><strong>Tax and GST advisory</strong><p>Direct and indirect tax, transfer pricing and tax disputes.</p></li>
+    <li><span class="ico"><svg class="ic"><use href="#i-landmark"/></svg></span><strong>Banking and investing</strong><p>Credit, investment banking, risk and wealth roles.</p></li>
+    <li><span class="ico"><svg class="ic"><use href="#i-bulb"/></svg></span><strong>Building a business</strong><p>Accounts and compliance skills suit founders and startup finance leads.</p></li>
+  </ul>
+
+  <h3 class="sub">CA beside CS and CMA</h3>
+  <div class="tablewrap">
+    <table class="compare">
+      <thead><tr><th></th><th>CA</th><th>CS</th><th>CMA</th></tr></thead>
+      <tbody>
+        <tr><td>Body</td><td>ICAI</td><td>ICSI</td><td>ICMAI</td></tr>
+        <tr><td>Core focus</td><td>Audit, taxation, accounting and financial reporting</td><td>Company law, governance and compliance</td><td>Cost and management accounting</td></tr>
+        <tr><td>Typical work</td><td>Practice, audit firms and finance roles</td><td>Compliance and secretarial roles in companies</td><td>Costing and finance roles in manufacturing and services</td></tr>
+</tbody>
+    </table>
+  </div>
+</section>
+
+<section class="sec wrap" id="questions">
+  <div class="sec-head">
+    <span class="kicker">Questions</span>
+    <h2 class="t">Questions parents ask</h2>
+  </div>
+  <details>
+    <summary>Does my child need to be a topper?</summary>
+    <p>ICAI's registration rules for the Foundation route list no minimum Class 10 or Class 12 percentage. What counts is clearing each exam: 40% in every paper and 50% overall, in a single sitting.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></p>
+  </details>
+  <details>
+    <summary>Can a Class 12 student go straight to Intermediate?</summary>
+    <p>No. After Class 12 the route starts with Foundation. Direct Entry to Intermediate is for graduates and postgraduates with 55% in commerce or 60% in other streams, and for those who passed Intermediate at ICSI or ICMAI.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></p>
+  </details>
+  <details>
+    <summary>How long is practical training?</summary>
+    <p>Two years, with nine to twelve months of industrial training allowed inside that time. It starts after both Intermediate groups and a four-week ICITSS course.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></p>
+  </details>
+  <details>
+    <summary>How many chances do students get?</summary>
+    <p>Foundation registration lasts 4 years from the first eligible attempt and cannot be revalidated. Intermediate lasts 5 years and can be revalidated once for ₹400. Final registration lasts 10 years and can be revalidated for ₹500.<a class="sr" href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI FAQ</a></p>
+  </details>
+  <details>
+    <summary>Can a student study for a degree alongside CA?</summary>
+    <p>Many students pursue a degree while preparing for Foundation and Intermediate. Practical training takes most of the working week, so the degree mode needs planning before training starts.</p>
+  </details>
+  <details>
+    <summary>How often is CA Final held now?</summary>
+    <p>Twice a year, in May and November. News reports put ICAI's notification at 6 April 2026. Foundation and Intermediate stay at three sittings a year.<a class="sr" href="https://www.icai.org/" target="_blank" rel="noopener">icai.org</a></p>
+  </details>
+</section>
+
+<div class="band" id="enquire">
+  <div class="wrap enq">
+    <div>
+      <span class="kicker">Enquire</span>
+      <h2 class="t">Questions and school sessions</h2>
+      <p class="lead">Ask which route suits a student, how to register for the Olympiad, or how a school can host an ICAI career counselling programme.</p>
+      <ul class="services">
+        <li><span class="ico"><svg class="ic"><use href="#i-users"/></svg></span><div><h3>School and college sessions</h3><p>ICAI career counselling programmes are arranged through the Committee on Career Counselling. A school can ask for one on <a href="https://ccg.icai.org/" target="_blank" rel="noopener" style="color:#fff">ccg.icai.org</a>.</p></div></li>
+        <li><span class="ico"><svg class="ic"><use href="#i-trophy"/></svg></span><div><h3>ICAI Commerce Olympiad</h3><p>The test is on 29 November 2026 and registration on ICAI's site has no fee. Ask here if you need help with the form. See the summary above.</p></div></li>
+        <li><span class="ico"><svg class="ic"><use href="#i-compass"/></svg></span><div><h3>Route guidance</h3><p>Questions about which entry route fits a student, or what the next ICAI date means for them.</p></div></li>
+      </ul>
+      <p class="sign">CA Divya Aggarwal, Practising Chartered Accountant. Empanelled career counsellor, ICAI Committee on Career Counselling.</p>
+      <p class="sign" id="wa-line" hidden></p>
+    </div>
+    <form class="card fields" id="enq" aria-label="Enquiry form" novalidate>
+      <div class="fields two">
+        <div class="field"><label for="enq-name">Your name</label><input id="enq-name" type="text" autocomplete="name"></div>
+        <div class="field"><label for="enq-role">You are</label>
+          <select id="enq-role"><option value="">Choose one</option><option>A student</option><option>A parent</option><option>A school or college</option><option>Someone else</option></select></div>
+        <div class="field"><label for="enq-stage">Stage</label>
+          <select id="enq-stage"><option value="">Choose one</option><option>Class 10 or below</option><option>Class 11</option><option>Class 12</option><option>Graduate</option><option>In the CA course</option><option>Not applicable</option></select></div>
+        <div class="field"><label for="enq-city">City</label><input id="enq-city" type="text" autocomplete="address-level2"></div>
+      </div>
+      <div class="field"><label for="enq-topic">What is your enquiry about?</label>
+        <select id="enq-topic"><option value="">Choose one</option><option>Which CA route suits me</option><option>A career counselling session for a school or college</option><option>ICAI Commerce Olympiad registration</option><option>Something else</option></select></div>
+      <div class="field"><label for="enq-msg">Message</label><textarea id="enq-msg"></textarea></div>
+      <label class="check" for="enq-consent"><input type="checkbox" id="enq-consent"><span>I am happy to be contacted about this enquiry. If I am under 18, a parent or teacher knows I am sending it.</span></label>
+      <p class="err" id="enq-err" role="alert" hidden></p>
+      <div class="row">
+        <a class="btn" id="enq-send" href="https://wa.me/" target="_blank" rel="noopener">Send enquiry on WhatsApp</a>
+        <button class="btn ghost" type="button" id="enq-copy">Copy enquiry</button>
+        <a class="btn ghost" id="enq-form" href="#" target="_blank" rel="noopener" hidden>Use the Google Form instead</a>
+      </div>
+      <p class="thanks" id="enq-thanks" role="status" hidden><b>Thank you.</b> WhatsApp has opened with your message. Press send there, and we will get back to you shortly.</p>
+      <p class="hint" id="enq-hint">Your details go only into the WhatsApp message you send. This page stores nothing.</p>
+    </form>
+  </div>
+</div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Sources used for this page</p>
+    <ul>
+      <li><a href="https://icai-call-sahayata.icai.org/wp-content/uploads/2025/03/About-CA-Course-Oro-FAQ.pdf" target="_blank" rel="noopener">ICAI, FAQs on the New Scheme of Education and Training (updated 27 Sep 2024)</a></li>
+      <li><a href="https://ccg.icai.org/" target="_blank" rel="noopener">ICAI Committee on Career Counselling, ccg.icai.org</a></li>
+      <li><a href="https://icaicommerceolympiad.in/PDF/ICAI_Commerce_Olympiad.pdf" target="_blank" rel="noopener">ICAI Commerce Olympiad scheme (PDF)</a></li>
+      <li><a href="https://ccg.icai.org/images/ICAI-commerce-olympiad-04-11-2026-v2.jpeg" target="_blank" rel="noopener">ICAI Commerce Olympiad brochure, 4 Nov 2026</a></li>
+      <li><a href="https://www.icai.org/" target="_blank" rel="noopener">icai.org, exam announcements</a></li>
+    </ul>
+    <p>This is an independent guide and not an official ICAI page. Rules and dates change, so confirm on icai.org before you register or pay a fee. Timeline dates are estimates. Last checked 10 Nov 2026. This site is run by an individual Chartered Accountant and is not an ICAI website.</p>
+  </div>
+</footer>
+<script src="js/app.js"></script>
+</body>
+</html>
+
+# Finance Simplified Career Desk
+
+Static website. No server or database. Open `index.html` to view it; host it free on GitHub Pages.
+
+## Folder layout
+- `index.html`  home page (Olympiad, CA route checker, planner, quiz, course, dates and fees, FAQ, WhatsApp, enquiry)
+- `css/style.css`  all colours (tokens at the top), fonts and layout, shared by every page
+- `js/app.js`  all logic. Rules sit between `PURE-START` and `PURE-END`
+- `404.html`  shown for a wrong address
+- `.nojekyll`  tells GitHub Pages to serve the files as they are
+
+## Settings to fill in
+- `js/app.js`: `WA_NUMBER` (your WhatsApp number with country code, digits only, e.g. 919876543210) and `GFORM_URL` (your Google Form link). Search the file for each name.
+
+## Update each exam cycle
+Edit the dates and fees in `index.html` (section "Dates and fees") and the Olympiad block, then change "Last checked". Confirm everything on icai.org first.
+
+## Adding pages later
+1. Copy `index.html` to a new file, e.g. `about.html`, `schools.html`, `resources.html`, `parents.html`.
+2. Keep the `<head>` and the header and footer, replace the middle with the new content, and keep `<script src="js/app.js">` only on pages that use the tools.
+3. Add a link to the new page in the header menu of every page.
+
+## Suggested growth path
+1. About page (wording cleared with the ICAI Committee).
+2. Schools page: how a school can host an ICAI career counselling programme.
+3. Resources page: dated notices, exam schedules, fee changes.
+4. Parents' guide page, expanded from the FAQ.
+5. Move enquiries into a Google Sheet through the Google Form.
+6. Free analytics (e.g. Google Analytics) once you need visitor counts.
+7. Custom domain and HTTPS through GitHub Pages settings.
+8. A backend (bookings, payments, logins) only if the site outgrows a static page.
+
+## Before going public
+Get the ICAI Committee's written view on the counsellor wording and the site name, and keep fees off the public pages.
+
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>CA Roadmap on WhatsApp</title>
+<meta name="description" content="A ready-to-share CA roadmap message in English and Hindi, from Finance Simplified Career Desk.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700;800&family=Figtree:wght@400;500;600;700&family=Hind:wght@400;500;600&display=swap">
+<style>
+/* Layout: clean modern ed-tech. Sticky white masthead, full-bleed navy hero (headline + route summary card), the route checker overlapping the hero edge as a white card, then airy sections of cards on a pale blue ground, closing in a navy enquiry band and footer. One bright accent (marigold) on navy only. */
+:root{
+  --bg:#F5F7FC; --surface:#FFFFFF; --ink:#0F1B3D; --muted:#56637F; --line:#DCE2F0;
+  --navy:#0B1B45; --on-navy:#FFFFFF; --on-navy-muted:#B9C5E8;
+  --primary:#1F47D6; --primary-ink:#FFFFFF; --primary-soft:#E8EDFD;
+  --accent:#FFB020; --accent-ink:#0B1B45;
+  --good:#15803D; --good-soft:#DCF5E5; --warn:#8A5605; --warn-soft:#FDF0D3; --bad:#B42318; --bad-soft:#FDE4E1; --info:#3B4A6B; --info-soft:#E8ECF6;
+  --p1:#1F47D6; --p2:#0E8AA8; --p3:#1A9B64; --p4:#D98E0B;
+  --shadow:0 1px 2px rgba(11,27,69,.06),0 10px 28px rgba(11,27,69,.08);
+  --bubble:#DCF8E3; --bubble-ink:#0E2A19;
+  --display:'Bricolage Grotesque','Hind',system-ui,sans-serif;
+  --body:'Figtree','Hind',system-ui,-apple-system,'Segoe UI',sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0A1029; --surface:#111A3A; --ink:#EAF0FF; --muted:#9FADD3; --line:#25315F;
+    --navy:#070C20; --on-navy:#FFFFFF; --on-navy-muted:#AEBBE0;
+    --primary:#86A2FF; --primary-ink:#0A1233; --primary-soft:#1A2759;
+    --accent:#FFC24D; --accent-ink:#0B1230;
+    --good:#6FD19B; --good-soft:#143122; --warn:#E8B45A; --warn-soft:#38290F; --bad:#F09A8C; --bad-soft:#3B1F1A; --info:#B6C3D1; --info-soft:#1E2748;
+    --p1:#86A2FF; --p2:#6EC1DD; --p3:#7FD1A1; --p4:#E8B45A;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 28px rgba(0,0,0,.35);
+    --bubble:#1C3B2A; --bubble-ink:#E5F4E8;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0A1029; --surface:#111A3A; --ink:#EAF0FF; --muted:#9FADD3; --line:#25315F;
+  --navy:#070C20; --on-navy:#FFFFFF; --on-navy-muted:#AEBBE0;
+  --primary:#86A2FF; --primary-ink:#0A1233; --primary-soft:#1A2759;
+  --accent:#FFC24D; --accent-ink:#0B1230;
+  --good:#6FD19B; --good-soft:#143122; --warn:#E8B45A; --warn-soft:#38290F; --bad:#F09A8C; --bad-soft:#3B1F1A; --info:#B6C3D1; --info-soft:#1E2748;
+  --p1:#86A2FF; --p2:#6EC1DD; --p3:#7FD1A1; --p4:#E8B45A;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 28px rgba(0,0,0,.35);
+  --bubble:#1C3B2A; --bubble-ink:#E5F4E8;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:auto}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.6 var(--body);-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);background:var(--surface);z-index:60}
+a{color:var(--primary);text-underline-offset:3px}
+a:focus-visible,summary:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible,button:focus-visible,.pick input:focus-visible + label,.seg input:focus-visible + label{outline:3px solid var(--primary);outline-offset:2px}
+.hero a:focus-visible,.band a:focus-visible,.hero button:focus-visible{outline-color:var(--accent)}
+.wrap{max-width:1160px;margin-inline:auto;padding-left:max(18px,env(safe-area-inset-left,0px));padding-right:max(18px,env(safe-area-inset-right,0px))}
+section[id]{scroll-margin-top:88px}
+.ic{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex:none}
+
+/* masthead */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:var(--surface);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:66px}
+.brand{display:flex;align-items:center;gap:10px;color:var(--ink);text-decoration:none;font:800 1.2rem var(--display);letter-spacing:-.01em}
+.bn{display:flex;flex-direction:column;line-height:1.1;font-size:1.02rem}
+.bn small{margin-top:3px;font:600 .72rem var(--body);letter-spacing:.1em;text-transform:uppercase;color:var(--primary)}
+@media (max-width:420px){.bn{font-size:.9rem}}
+.mark{display:grid;place-items:center;width:36px;height:36px;border-radius:10px;background:var(--primary);color:var(--primary-ink);font:800 .95rem var(--display)}
+.links{display:flex;gap:24px;align-items:center;font-weight:500;font-size:.96rem}
+.links a:not(.btn){color:var(--muted);text-decoration:none}
+.links a:not(.btn):hover{color:var(--ink)}
+@media (max-width:940px){.links .hide-m{display:none}}
+
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:46px;padding:11px 22px;border-radius:10px;border:1.5px solid var(--primary);background:var(--primary);color:var(--primary-ink);font:600 1rem var(--body);text-decoration:none;cursor:pointer;transition:transform .15s,box-shadow .15s}
+.btn:hover{box-shadow:0 6px 16px rgba(31,71,214,.28);transform:translateY(-1px)}
+@media (prefers-reduced-motion:reduce){.btn{transition:none}.btn:hover{transform:none}}
+.btn.sm{white-space:nowrap;min-height:40px;padding:8px 18px;font-size:.95rem}
+.btn.accent{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.accent:hover{box-shadow:0 6px 16px rgba(255,176,32,.35)}
+.btn.ghost{background:transparent;color:var(--primary)}
+.btn.light{background:transparent;border-color:rgba(255,255,255,.5);color:#fff}
+.btn[aria-disabled="true"],.btn:disabled{opacity:.5;cursor:not-allowed;box-shadow:none;transform:none}
+.row{display:flex;flex-wrap:wrap;gap:12px}
+
+/* hero */
+.hero{background-color:var(--navy);color:var(--on-navy);background-image:radial-gradient(70% 90% at 88% 0%,rgba(31,71,214,.55),transparent 62%),radial-gradient(rgba(255,255,255,.07) 1px,transparent 1.6px);background-size:auto,24px 24px}
+.hero .wrap{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:44px;align-items:center;padding-block:56px 72px}
+@media (max-width:900px){.hero .wrap{grid-template-columns:minmax(0,1fr);gap:32px;padding-block:40px 56px}}
+.pill{display:inline-flex;align-items:center;gap:10px;padding:7px 14px;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.22);font-size:.92rem;color:var(--on-navy)}
+.pill::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--accent);flex:none}
+.pill b{font-weight:700;color:var(--accent)}
+.hero h1{margin:18px 0 16px;font:800 clamp(2.3rem,5.6vw,3.8rem)/1.04 var(--display);letter-spacing:-.025em;text-wrap:balance;max-width:16ch}
+.hero h1 em{font-style:normal;color:var(--accent)}
+.hero .lede{margin:0 0 26px;max-width:52ch;color:var(--on-navy-muted);font-size:1.15rem}
+.trust{display:flex;flex-wrap:wrap;gap:8px 22px;margin:26px 0 0;padding:0;list-style:none;font-size:.93rem;color:var(--on-navy-muted)}
+.trust li{display:flex;gap:8px;align-items:center}
+.trust svg{width:16px;height:16px;color:var(--accent);stroke-width:2.4}
+.route-card{padding:24px;border-radius:20px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.18);min-width:0}
+.rc-title{margin:0 0 18px;font:700 .78rem var(--body);letter-spacing:.12em;text-transform:uppercase;color:var(--on-navy-muted)}
+.rc{list-style:none;margin:0;padding:0}
+.rc li{position:relative;display:grid;grid-template-columns:46px minmax(0,1fr);gap:16px;padding-bottom:20px}
+.rc li:not(:last-child)::before{content:"";position:absolute;left:22px;top:48px;bottom:2px;width:2px;background:rgba(255,255,255,.22)}
+.rc-ic{display:grid;place-items:center;width:46px;height:46px;border-radius:13px;background:rgba(255,255,255,.12);color:#fff}
+.rc li:last-child .rc-ic{background:var(--accent);color:var(--accent-ink)}
+.rc strong{display:block;font:700 1.12rem var(--display);line-height:1.25}
+.rc span.d{display:block;color:var(--on-navy-muted);font-size:.95rem;line-height:1.4}
+.rc-end{margin:4px 0 0;padding-top:16px;border-top:1px solid rgba(255,255,255,.16);color:var(--on-navy-muted);font-size:.92rem}
+
+/* cards and fields */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:26px;box-shadow:var(--shadow);min-width:0}
+@media (max-width:560px){.card{padding:20px}}
+.tool-sec{position:relative}
+.tool{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:22px;align-items:start}
+@media (max-width:900px){.tool{grid-template-columns:minmax(0,1fr)}}
+.choices{border:0;padding:0;margin:0;display:grid;gap:10px;min-width:0}
+.choices legend{padding:0;margin-bottom:12px;font:700 1.25rem var(--display)}
+.pick{position:relative;min-width:0}
+.pick input,.seg input{position:absolute;opacity:0;inset:0;width:100%;height:100%;margin:0;cursor:pointer;z-index:1}
+.pick label{display:block;position:relative;padding:13px 14px 13px 46px;border:1.5px solid var(--line);border-radius:12px;background:var(--surface);line-height:1.3;font-weight:500}
+.pick label::before{content:"";position:absolute;left:15px;top:50%;width:18px;height:18px;margin-top:-9px;border:2px solid var(--muted);border-radius:50%}
+.pick:hover label{border-color:var(--primary)}
+.pick input:checked + label{border-color:var(--primary);background:var(--primary-soft);font-weight:600}
+.pick input:checked + label::before{border-color:var(--primary);background:radial-gradient(circle,var(--primary) 0 42%,transparent 46%)}
+.pick small{display:block;color:var(--muted);font-size:.84rem;font-weight:400;margin-top:2px}
+.field{display:grid;gap:6px;min-width:0}
+.field label{font-weight:600}
+.field select,.field input[type="text"],.field input[type="number"],.field textarea{width:100%;font:inherit;padding:12px 13px;border:1.5px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink)}
+.field textarea{min-height:104px;resize:vertical}
+.hint{margin:0;font-size:.88rem;color:var(--muted)}
+.fields{display:grid;gap:16px}
+.fields.two{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width:620px){.fields.two{grid-template-columns:minmax(0,1fr)}}
+.degree{margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
+.check{display:flex;gap:12px;align-items:flex-start;line-height:1.45}
+.check input{margin-top:.2rem;width:20px;height:20px;flex:none;accent-color:var(--primary)}
+.err{margin:0;color:var(--bad);font-size:.93rem;font-weight:500}
+
+/* result */
+.res-head{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;margin-bottom:10px}
+.chip{display:inline-flex;align-items:center;padding:4px 12px;border-radius:999px;font:700 .76rem var(--body);letter-spacing:.05em;text-transform:uppercase}
+.chip.go{background:var(--good-soft);color:var(--good)}
+.chip.soon{background:var(--warn-soft);color:var(--warn)}
+.chip.no{background:var(--bad-soft);color:var(--bad)}
+.chip.info{background:var(--info-soft);color:var(--info)}
+.res-title{margin:0 0 8px;font:700 clamp(1.5rem,2.8vw,2rem)/1.15 var(--display);letter-spacing:-.015em;text-wrap:balance}
+.result p{margin:0 0 14px}
+.mini{margin:24px 0 12px;font:700 .76rem var(--body);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.steps{list-style:none;margin:0;padding:0;counter-reset:s;display:grid;gap:12px}
+.steps li{counter-increment:s;display:grid;grid-template-columns:30px minmax(0,1fr);gap:12px;align-items:start}
+.steps li::before{content:counter(s);display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--primary);color:var(--primary-ink);font:700 .85rem var(--body)}
+.src{margin-top:18px !important;font-size:.86rem;color:var(--muted)}
+.share{margin:16px 0 0 !important;font-weight:600}
+.tablewrap{overflow-x:auto;max-width:100%;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+table{border-collapse:collapse;width:100%}
+th,td{padding:11px 14px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+th{background:var(--bg);font:700 .74rem var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+tbody tr:last-child td{border-bottom:0}
+.num{font-variant-numeric:tabular-nums;white-space:nowrap;font-weight:600}
+.tnote{margin:10px 0 0 !important;font-size:.86rem;color:var(--muted)}
+
+/* sections */
+.sec{padding-block:88px 0}
+@media (max-width:720px){.sec{padding-block:60px 0}}
+.sec-head{max-width:66ch;margin-bottom:32px}
+.kicker{display:inline-block;margin-bottom:10px;font:700 .78rem var(--body);letter-spacing:.12em;text-transform:uppercase;color:var(--primary)}
+.t{margin:0 0 12px;font:700 clamp(1.8rem,3.8vw,2.7rem)/1.1 var(--display);letter-spacing:-.02em;text-wrap:balance}
+.lead{margin:0;color:var(--muted);font-size:1.08rem}
+
+/* planner */
+.planner{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,7fr);gap:22px;align-items:start}
+@media (max-width:900px){.planner{grid-template-columns:minmax(0,1fr)}}
+.est{display:grid;gap:2px;margin-bottom:18px}
+.est .k{font:700 .76rem var(--body);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.est .big{font:800 clamp(2.2rem,5vw,3.2rem)/1.05 var(--display);letter-spacing:-.02em;color:var(--primary)}
+.bar{display:flex;gap:3px;height:14px;border-radius:999px;overflow:hidden}
+.bar span{display:block;min-width:4px}
+.legend{display:flex;flex-wrap:wrap;gap:8px 22px;margin:12px 0 4px;padding:0;list-style:none;font-size:.9rem;color:var(--muted)}
+.legend li{display:flex;align-items:center;gap:8px}
+.legend i{display:block;width:12px;height:12px;border-radius:4px}
+.ph1{background:var(--p1)}.ph2{background:var(--p2)}.ph3{background:var(--p3)}.ph4{background:var(--p4)}
+.tl{list-style:none;margin:0;padding:0}
+.tl li{display:grid;grid-template-columns:5.4rem minmax(0,1fr);gap:0 16px}
+.tl .d{padding-top:1px;font-weight:700;font-size:.9rem;font-variant-numeric:tabular-nums;color:var(--ink)}
+.tl .b{position:relative;padding:0 0 20px 24px;border-left:2px solid var(--line)}
+.tl li:last-child .b{border-left-color:transparent;padding-bottom:0}
+.tl .b::before{content:"";position:absolute;left:-8px;top:3px;width:14px;height:14px;border-radius:50%;background:var(--surface);border:3px solid var(--primary)}
+.tl li.exam .b::before{background:var(--primary)}
+.tl li.result .b::before{border-color:var(--p3)}
+.tl li.done .b::before{background:var(--good);border-color:var(--good)}
+.tl strong{display:block;font-weight:700;line-height:1.35}
+.tl span.n{display:block;color:var(--muted);font-size:.92rem;line-height:1.45}
+
+/* quiz */
+.quiz{max-width:880px}
+.q{border:0;margin:0 0 22px;padding:0 0 22px;min-width:0;border-bottom:1px solid var(--line)}
+.q:last-of-type{border-bottom:0;margin-bottom:12px}
+.qlegend{display:block;max-width:62ch;margin-bottom:12px;padding:0;font:600 1.08rem var(--body)}
+.scale{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+@media (max-width:560px){.scale{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.seg{position:relative;min-width:0}
+.seg label{display:block;padding:11px 8px;border:1.5px solid var(--line);border-radius:10px;background:var(--surface);text-align:center;font-size:.94rem;line-height:1.25;cursor:pointer;font-weight:500}
+.seg:hover label{border-color:var(--primary)}
+.seg input:checked + label{border-color:var(--primary);background:var(--primary);color:var(--primary-ink);font-weight:700}
+.qbar{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center}
+.qprog{font-weight:600;font-size:.92rem;color:var(--muted)}
+.dims{display:grid;gap:16px;margin:18px 0 4px}
+.dim .l{display:flex;justify-content:space-between;gap:12px;font-weight:600}
+.dim .l span:last-child{color:var(--muted);font-variant-numeric:tabular-nums}
+.meter{height:10px;margin-top:7px;border-radius:999px;background:var(--line);overflow:hidden}
+.meter span{display:block;height:100%;background:var(--primary);border-radius:999px}
+.tips{margin:6px 0 0;padding-left:1.2rem;display:grid;gap:8px}
+#quiz-out{margin-top:22px}
+
+/* stages */
+.stages{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;counter-reset:st}
+@media (max-width:760px){.stages{grid-template-columns:minmax(0,1fr)}}
+.stage{counter-increment:st}
+.stage .hd{display:flex;align-items:center;gap:16px;margin-bottom:12px}
+.ico{display:grid;place-items:center;width:52px;height:52px;border-radius:15px;background:var(--primary-soft);color:var(--primary)}
+.stage .no::before{content:"Stage " counter(st);font:700 .74rem var(--body);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.stage h3{margin:2px 0 0;font:700 1.45rem/1.15 var(--display);letter-spacing:-.01em}
+.stage .len{margin:0 0 16px;color:var(--muted)}
+.facts{display:grid;gap:0;margin:0}
+.facts div{display:grid;grid-template-columns:7.4rem minmax(0,1fr);gap:14px;padding:12px 0;border-top:1px solid var(--line)}
+.facts dt{padding-top:2px;font:700 .74rem var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.facts dd{margin:0}
+@media (max-width:480px){.facts div{grid-template-columns:minmax(0,1fr);gap:2px}}
+.timeline-est{margin:22px 0 0;max-width:66ch;color:var(--muted)}
+
+/* costs and careers */
+.fees{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+@media (max-width:900px){.fees{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.fee{padding:22px;border:1px solid var(--line);border-radius:16px;background:var(--surface)}
+.fee .amt{font:800 2.1rem/1.1 var(--display);letter-spacing:-.02em;color:var(--primary)}
+.fee .what{margin-top:6px;color:var(--muted);font-size:.95rem}
+.sub{margin:48px 0 16px;font:700 1.5rem var(--display);letter-spacing:-.01em}
+.paths{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+@media (max-width:900px){.paths{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:560px){.paths{grid-template-columns:minmax(0,1fr)}}
+.paths li{padding:22px;border:1px solid var(--line);border-radius:16px;background:var(--surface)}
+.paths .ico{width:44px;height:44px;border-radius:12px;margin-bottom:12px}
+.paths strong{display:block;margin-bottom:4px;font:700 1.12rem var(--display)}
+.paths p{margin:0;color:var(--muted);font-size:.97rem}
+.compare{min-width:560px}
+.compare th:first-child,.compare td:first-child{font-weight:700;white-space:nowrap}
+
+/* faq */
+details{margin-bottom:12px;padding:0 22px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:18px 0;font-weight:600;font-size:1.06rem}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--primary-soft);color:var(--primary);font:700 1.2rem/1 var(--body);flex:none}
+details[open] summary::after{content:"\2212"}
+details p{margin:0 0 20px;max-width:68ch;color:var(--muted)}
+
+/* whatsapp */
+.wa{display:grid;grid-template-columns:minmax(0,4fr) minmax(0,7fr);gap:22px;align-items:start}
+@media (max-width:900px){.wa{grid-template-columns:minmax(0,1fr)}}
+.chat{border:1px solid var(--line);border-radius:18px;background:var(--surface);box-shadow:var(--shadow);overflow:hidden;min-width:0}
+.chat-top{display:flex;align-items:center;gap:12px;padding:14px 20px;background:var(--navy);color:#fff}
+.av{display:grid;place-items:center;width:38px;height:38px;border-radius:50%;background:var(--accent);color:var(--accent-ink);font:800 .85rem var(--display);flex:none}
+.chat-top strong{display:block;line-height:1.2}
+.chat-top small{display:block;color:var(--on-navy-muted)}
+.chat-body{padding:20px;background:var(--bg)}
+.bubble{margin:0;padding:14px 16px;max-height:440px;overflow:auto;border-radius:14px 14px 14px 4px;background:var(--bubble);color:var(--bubble-ink);box-shadow:0 1px 1px rgba(0,0,0,.1);white-space:pre-wrap;overflow-wrap:anywhere;font-size:.98rem;line-height:1.5}
+.chat-act{padding:18px 20px 20px;border-top:1px solid var(--line)}
+
+.sr{display:inline-block;margin-left:6px;padding:0 7px;border-radius:6px;background:var(--primary-soft);color:var(--primary);font-size:.74rem;font-weight:700;letter-spacing:.02em;text-decoration:none;white-space:nowrap;vertical-align:1px}
+.thanks{margin:0;padding:14px 16px;border-radius:12px;background:var(--good-soft);color:var(--ink);font-size:.97rem}
+.srnote{font-size:.9rem;color:var(--muted);margin:12px 0 0}
+.facts-t td:nth-child(3){line-height:1.9}
+@media (max-width:560px){.facts-t th,.facts-t td{padding:9px 7px;font-size:.88rem}.facts-t .num{white-space:normal}.facts-t td:nth-child(3){white-space:normal}.facts-t .sr{white-space:normal;margin:0 4px 3px 0}}
+.broch{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:22px;align-items:start}
+@media (max-width:900px){.broch{grid-template-columns:minmax(0,1fr)}}
+.bhead{padding:26px;border-radius:18px;color:#fff;background-color:var(--navy);background-image:radial-gradient(80% 90% at 100% 0%,rgba(255,176,32,.35),transparent 60%),radial-gradient(70% 90% at 0% 100%,rgba(31,71,214,.6),transparent 60%)}
+.bhead .k{font:700 .76rem var(--body);letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.bhead h3{margin:8px 0 6px;font:800 clamp(1.7rem,3.6vw,2.3rem)/1.05 var(--display);letter-spacing:-.02em}
+.bhead p{margin:0 0 16px;color:var(--on-navy-muted)}
+.bdate{display:flex;flex-wrap:wrap;gap:10px;margin:0;padding:0;list-style:none}
+.bdate li{padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);font-weight:600;font-size:.95rem}
+.bdate li b{color:var(--accent)}
+.lv{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 6px;padding:0;list-style:none}
+.lv li{padding:6px 12px;border-radius:999px;background:var(--primary-soft);color:var(--primary);font-weight:600;font-size:.9rem}
+.bcols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:18px}
+@media (max-width:620px){.bcols{grid-template-columns:minmax(0,1fr)}}
+.bcols h4{margin:0 0 8px;font:700 .76rem var(--body);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.bcols p{margin:0 0 6px}
+.bnote{margin:18px 0 0;padding:14px 16px;border-radius:12px;background:var(--warn-soft);color:var(--ink);font-size:.93rem}
+/* enquiry band and footer */
+.band{margin-top:96px;padding-block:80px;background-color:var(--navy);color:var(--on-navy);background-image:radial-gradient(60% 80% at 8% 0%,rgba(31,71,214,.45),transparent 62%)}
+@media (max-width:720px){.band{margin-top:64px;padding-block:56px}}
+.band .kicker{color:var(--accent)}
+.band .lead{color:var(--on-navy-muted)}
+.enq{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:44px;align-items:start}
+@media (max-width:900px){.enq{grid-template-columns:minmax(0,1fr);gap:32px}}
+.services{list-style:none;margin:24px 0 0;padding:0}
+.services li{display:grid;grid-template-columns:48px minmax(0,1fr);gap:16px;padding:20px 0;border-top:1px solid rgba(255,255,255,.16)}
+.services .ico{background:rgba(255,255,255,.1);color:var(--accent);width:48px;height:48px}
+.services h3{margin:0 0 4px;font:700 1.2rem var(--display)}
+.services p{margin:0;color:var(--on-navy-muted)}
+.sign{margin:22px 0 0;max-width:52ch;color:var(--on-navy-muted)}
+.band .card{color:var(--ink)}
+footer{padding-block:36px 56px;background:var(--navy);color:var(--on-navy-muted);border-top:1px solid rgba(255,255,255,.12);font-size:.92rem}
+footer a{color:#fff}
+footer ul{margin:8px 0 16px;padding-left:1.1rem}
+footer p{margin:0 0 8px;max-width:72ch}
+
+[hidden]{display:none!important}body{margin:0}</style>
+</head><body>
+<header class="top"><div class="wrap"><a class="brand" href="index.html"><span class="mark" aria-hidden="true">FS</span><span class="bn">Finance Simplified Career Desk<small>CA Launchpad</small></span></a><nav class="links"><a class="btn sm" href="index.html">Back to website</a></nav></div></header>
+<main>
+<section class="sec wrap" id="whatsapp" style="padding-top:48px">
+  <div class="sec-head">
+    <span class="kicker">Share</span>
+    <h2 class="t">Send the roadmap on WhatsApp</h2>
+    <p class="lead">Share the CA roadmap with a parent, a friend or a class group. Pick a version, then copy it or open it in WhatsApp.</p>
+  </div>
+  <div class="wa">
+    <form class="card" id="wa-form" aria-label="Message version">
+      <fieldset class="choices">
+        <legend>Which message?</legend>
+        <div class="pick"><input type="radio" name="wamsg" id="wa-en" value="en" checked><label for="wa-en">CA roadmap in English</label></div>
+        <div class="pick"><input type="radio" name="wamsg" id="wa-hi" value="hi"><label for="wa-hi" lang="hi">CA रोडमैप हिंदी में</label></div>
+      </fieldset>
+    </form>
+    <div class="chat">
+      <div class="chat-top"><span class="av" aria-hidden="true">CA</span><div><strong>Message preview</strong><small>What the other person will read</small></div></div>
+      <div class="chat-body"><div class="bubble" id="wa-bubble" tabindex="0" aria-label="Message preview"></div></div>
+      <div class="chat-act">
+        <div class="row">
+          <a class="btn" id="wa-open" href="https://wa.me/" target="_blank" rel="noopener">Open in WhatsApp</a>
+          <button class="btn ghost" type="button" id="wa-copy">Copy message</button>
+        </div>
+        <p class="hint" id="wa-hint" style="margin-top:12px">WhatsApp opens with the message ready. You choose who receives it.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+</main>
+<footer><div class="wrap"><p>This is an independent guide and not an official ICAI page. Rules and dates change, so confirm on icai.org before you register or pay a fee.</p></div></footer>
+<script>
+function roadmapMessage(lang){
+  if(lang==='hi')return [
+    "*CA बनने का रोडमैप (10वीं और 12वीं के बाद)*",
+    "CA दिव्या अग्रवाल की ओर से",
+    "",
+    "1. *फाउंडेशन*: 10वीं के बाद रजिस्ट्रेशन। पहला अटेम्प्ट 12वीं की परीक्षा देने के बाद। परीक्षा जनवरी, मई और सितंबर में। पास होने के लिए हर पेपर में 40% और कुल 50%।",
+    "2. *इंटरमीडिएट*: फाउंडेशन पास और 12वीं के बाद। ग्रेजुएट के लिए डायरेक्ट एंट्री (कॉमर्स में 55%, अन्य डिग्री में 60%)। परीक्षा से कम से कम 8 महीने पहले रजिस्ट्रेशन।",
+    "3. *प्रैक्टिकल ट्रेनिंग*: 2 साल। इंटरमीडिएट के दोनों ग्रुप पास करने और 4 हफ्ते के ICITSS के बाद शुरू होती है।",
+    "4. *फाइनल*: परीक्षा मई और नवंबर में। परीक्षा के महीने से 6 महीने पहले तक ट्रेनिंग पूरी होनी चाहिए।",
+    "",
+    "12वीं के बाद सबसे तेज़ रास्ते में लगभग 4.5 साल लगते हैं। यह हमारा अनुमान है।",
+    "नियम ICAI की FAQ (सितंबर 2024) के अनुसार हैं। रजिस्ट्रेशन से पहले icai.org पर जाँच लें।"
+  ].join('\n');
+  return [
+    "*CA roadmap after Class 10 and Class 12*",
+    "From CA Divya Aggarwal",
+    "",
+    "1. *Foundation*: register after Class 10. First attempt comes after you appear in the Class 12 exam. Exams in January, May and September. Pass with 40% in each paper and 50% overall.",
+    "2. *Intermediate*: after Foundation and Class 12. Graduates can enter directly with 55% in a commerce degree or 60% in any other degree. Register at least 8 months before the exam.",
+    "3. *Practical training*: 2 years. It starts after both Intermediate groups and the 4-week ICITSS course.",
+    "4. *Final*: exams in May and November. Training must end 6 months before the exam month.",
+    "",
+    "From Class 12, the fastest path takes about 4.5 years. That is our estimate.",
+    "Rules are from ICAI's FAQ (Sep 2024). Please confirm on icai.org before you register."
+  ].join('\n');
+}
+
+function waHref(msg){return 'https://wa.me/?text='+encodeURIComponent(msg);}
+(function(){
+  var $=function(s){return document.querySelector(s);};
+  function kind(){var c=document.querySelector('input[name="wamsg"]:checked');return c?c.value:'en';}
+  function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+  function update(){
+    var t=roadmapMessage(kind()),b=$('#wa-bubble');
+    b.innerHTML=esc(t).replace(/\*([^*\n]+)\*/g,'<strong>$1</strong>');
+    b.setAttribute('lang',kind()==='hi'?'hi':'en');
+    $('#wa-open').href=waHref(t);
+  }
+  function copyWith(text,btn,node){
+    var orig=btn.textContent;
+    function flash(m){btn.textContent=m;setTimeout(function(){btn.textContent=orig;},2200);}
+    function fallback(){try{var r=document.createRange();r.selectNodeContents(node);var s=window.getSelection();s.removeAllRanges();s.addRange(r);}catch(e){}flash('Select and copy');}
+    try{if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(text).then(function(){flash('Copied');},fallback);}else fallback();}catch(e){fallback();}
+  }
+  $('#wa-form').addEventListener('change',update);
+  $('#wa-form').addEventListener('submit',function(e){e.preventDefault();});
+  $('#wa-copy').addEventListener('click',function(){copyWith(roadmapMessage(kind()),this,$('#wa-bubble'));});
+  update();
+})();
+</script>
+
+</body></html>
